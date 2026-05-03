@@ -1,0 +1,5 @@
+int a = 5;
+// Error: Carácter inválido
+int b = 10;
+// Error: Carácter inválido
+String msg = "Error sin cerrar":
